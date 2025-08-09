@@ -10,7 +10,7 @@ const routes=[
     component: MapView,
   },
   {
-    path: '/NICEmap_f_01',
+    path: '/NICEmap_f_05',
     name: 'Home',
     component: MapView,
   }]
