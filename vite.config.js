@@ -7,7 +7,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 // https://vite.dev/config/
 export default defineConfig({
   // 上傳到github
-  base: '/NICEmap_f_01/', 
+  base: '/NICEmap_f_05/', 
   plugins: [
     vue(),
     vueDevTools(),
